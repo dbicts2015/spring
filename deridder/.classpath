@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="spring-core-4.1.7.RELEASE.jar" sourcepath="spring-core-4.1.7.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/deridder/spring-core-4.1.7.RELEASE-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="spring-beans-4.1.7.RELEASE.jar" sourcepath="spring-beans-4.1.7.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/deridder/spring-beans-4.1.7.RELEASE-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="spring-context-4.1.7.RELEASE.jar" sourcepath="spring-context-4.1.7.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/deridder/spring-context-4.1.7.RELEASE-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/deridder/commons-logging-1.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="spring-expression-4.1.7.RELEASE.jar" sourcepath="spring-expression-4.1.7.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/deridder/spring-expression-4.1.7.RELEASE-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="spring-aop-4.1.7.RELEASE.jar" sourcepath="spring-aop-4.1.7.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/deridder/spring-aop-4.1.7.RELEASE-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="aopalliance.jar"/>
+	<classpathentry kind="lib" path="aspectjweaver-1.8.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
